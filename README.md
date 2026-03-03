@@ -1,4 +1,4 @@
-# Azure Budget Data Collection for FinOps
+# Azure FinOps
 
 This solution provides a simplified approach to collecting Azure budget data across all resource groups using a single API call.
 
